@@ -301,8 +301,10 @@ footer{
     align-items: center;
 }
 
-
-
+.third-section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 10px;
+}
 
 @media only screen and (max-width:577px){
     nav{
@@ -333,8 +335,8 @@ footer{
         margin-right: 100px;
     }
      .third-section-info{
-        margin-right: 250px;
-        margin-left: 300px;
+        margin-right: 260px;
+        margin-left: 280px;
      }
      .fourth-section-info{
         padding: 0;
